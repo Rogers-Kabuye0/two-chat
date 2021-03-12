@@ -1,1 +1,3 @@
-## Try to improve the code and as you make commits
+## If you want, try to improve the code.
+
+# And also make commits
